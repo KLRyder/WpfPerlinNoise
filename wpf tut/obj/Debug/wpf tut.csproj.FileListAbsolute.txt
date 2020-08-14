@@ -1,0 +1,18 @@
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\bin\Debug\wpf_tut.exe.config
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\bin\Debug\wpf_tut.exe
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\bin\Debug\wpf_tut.pdb
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf tut.csprojResolveAssemblyReference.cache
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\MainWindow.g.cs
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\App.g.cs
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut_MarkupCompile.cache
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut_MarkupCompile.lref
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\MainWindow.baml
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut.g.resources
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut.Properties.Resources.resources
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf tut.csproj.GenerateResource.cache
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf tut.csproj.CoreCompileInputs.cache
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut.exe
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut.pdb
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\obj\Debug\wpf_tut_Content.g.cs
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\bin\Debug\cat.bmp
+C:\Users\kr15g15\RiderProjects\wpf tut\wpf tut\bin\Debug\cat.png
